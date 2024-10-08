@@ -99,6 +99,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public int division(int a,int b){
-        return a/b;
+        return a/b; //asi se hace una division
     }
 }
